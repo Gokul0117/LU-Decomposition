@@ -54,6 +54,7 @@ print(solution)
   ![LU decompositon 1](https://user-images.githubusercontent.com/121165938/214523464-dfc08bc3-fd30-4627-87b5-c7297a71a90a.png)
   
 (ii)
+
   ![LU decompositon 2](https://user-images.githubusercontent.com/121165938/214523565-d3d76f63-4d24-49cb-8427-dff7481ad21e.png)
 
 
